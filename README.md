@@ -23,3 +23,7 @@ El proyecto contempla dominio propio, hosting, configuración de WordPress y est
 
 ## Enlace al sitio
 [https://inyeccionesadomiciliosantiago.cl]
+
+
+<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/7597ce60-c3dc-45d2-91d1-2c631b56ec60" />
+
